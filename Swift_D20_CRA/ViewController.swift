@@ -48,7 +48,7 @@ class ViewController: UIViewController {
             }
             catch
             {
-                print("error babe")
+                print("error")
             }
             
         case ("d20"):
@@ -65,7 +65,7 @@ class ViewController: UIViewController {
             }
             catch
             {
-                print("error babe")
+                print("error")
             }
             
         default:
